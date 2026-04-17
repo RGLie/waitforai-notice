@@ -7,7 +7,7 @@
       "type": "notice",
       "severity": "high",
       "publishedAt": "2026-04-18T18:00:00+09:00",
-      "startsAt": "2026-04-18T18:00:00+09:00",
+      "startsAt": "2026-04-18T00:00:00+09:00",
       "isActive": true,
       "pinned": true
     }
