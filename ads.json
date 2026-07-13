@@ -1,0 +1,41 @@
+{
+  "disclosure": "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "ads": [
+    {
+      "id": "2026-07-pepsi-zero-lime",
+      "title": "펩시 제로슈거 라임향 210ml × 30개",
+      "price": "",
+      "emoji": "🥤",
+      "imageUrl": "https://image7.coupangcdn.com/image/affiliate/banner/0a8c5f969a1287853cae92cff6ccf7e7@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/flPBxZ4vCu",
+      "isActive": true
+    },
+    {
+      "id": "2026-07-samdasoo-500ml",
+      "title": "제주삼다수 그린 500ml × 80개",
+      "price": "",
+      "emoji": "💧",
+      "imageUrl": "https://image5.coupangcdn.com/image/affiliate/banner/947618efaac0539ed1f20cc5e14fd2b0@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/flPC15p9mS",
+      "isActive": true
+    },
+    {
+      "id": "2026-07-samdasoo-2l",
+      "title": "제주삼다수 그린 무라벨 2L × 6개",
+      "price": "",
+      "emoji": "💧",
+      "imageUrl": "https://img1c.coupangcdn.com/image/affiliate/banner/5d3a417c83e23505a587ae1a927160c8@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/flPExG83um",
+      "isActive": true
+    },
+    {
+      "id": "2026-07-cleannara-tissue",
+      "title": "깨끗한나라 순수 프리미엄 3겹 롤화장지 30m × 30입",
+      "price": "",
+      "emoji": "🧻",
+      "imageUrl": "https://image1.coupangcdn.com/image/affiliate/banner/85d366e1b0dd7627c7edfe7abea32093@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/flPFtrARzM",
+      "isActive": true
+    }
+  ]
+}
