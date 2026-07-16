@@ -36,6 +36,51 @@
       "imageUrl": "https://image1.coupangcdn.com/image/affiliate/banner/85d366e1b0dd7627c7edfe7abea32093@2x.jpg",
       "linkUrl": "https://link.coupang.com/a/flPFtrARzM",
       "isActive": true
+    },
+    {
+      "id": "2026-07-cocacola-zero",
+      "title": "코카콜라 제로 190ml × 30개",
+      "price": "",
+      "emoji": "🥤",
+      "imageUrl": "https://image4.coupangcdn.com/image/affiliate/banner/62d7d2ea941180904121df2b2e7bf5e8@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/fqPuuv5JXo",
+      "isActive": true
+    },
+    {
+      "id": "2026-07-garglin-zero",
+      "title": "가그린 제로 구강청결제 1.2L × 2개",
+      "price": "",
+      "emoji": "🦷",
+      "imageUrl": "https://image7.coupangcdn.com/image/affiliate/banner/5e85c47fe8b89f69dae4ab8bf29d8fec@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/fqPvpCR4ua",
+      "isActive": true
+    },
+    {
+      "id": "2026-07-caprisun-orange",
+      "title": "카프리썬 오렌지 200ml × 20개",
+      "price": "",
+      "emoji": "🧃",
+      "imageUrl": "https://static.coupangcdn.com/image/affiliate/banner/7504ab9688f5f71f2b9d00227e496e70@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/fqPwJRZTVY",
+      "isActive": true
+    },
+    {
+      "id": "2026-07-2080-toothbrush",
+      "title": "2080 소프트 클린 초미세모 칫솔 20개입",
+      "price": "",
+      "emoji": "🪥",
+      "imageUrl": "https://image3.coupangcdn.com/image/affiliate/banner/58df365e9136e4ec0f4ba75eece0095d@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/fqPyatu896",
+      "isActive": true
+    },
+    {
+      "id": "2026-07-energizer-aa",
+      "title": "에너자이저 알카라인 AA 건전지 18개입",
+      "price": "",
+      "emoji": "🔋",
+      "imageUrl": "https://image7.coupangcdn.com/image/affiliate/banner/75289c98e1cc1d221ab7add8ade58044@2x.jpg",
+      "linkUrl": "https://link.coupang.com/a/fqPy3yqT8K",
+      "isActive": true
     }
   ]
 }
